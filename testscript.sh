@@ -2,4 +2,4 @@
 echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "This was added by no one for testing Jenkins"
+echo "This was changed by me for testing Jenkins"
